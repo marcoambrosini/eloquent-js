@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/007 the sum of a range\\sumofarange.js"
+            "program": "${workspaceFolder}/009 A list\\alist.js"
         }
     ]
 }
