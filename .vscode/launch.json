@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/010 Deep comparison\\deepequal.js"
+            "program": "${workspaceFolder}/011 flattening\\flattening.js"
         }
     ]
 }
